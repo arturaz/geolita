@@ -1,0 +1,155 @@
+/* PRESET STYLE 1 - Color A */
+body{color:#666666;}
+a {color:#112c5d;}
+a:hover {color:#112c5d;}
+.breadcrumb-header{color:#333333;}
+.well .ot-mod-inner{background:#FFFFFF;}
+h3.mod-title{border-color:#E5E5E5;color:#333333;}
+a.read-more{border-color:#D9D9D9;background:url("/web/20220114015648im_/http://geolita.lt/templates/ot_dulcet/assets/images/arrow_d.png") no-repeat scroll 91% 50% #FFFFFF;color:#666666;}
+.nav > li > a:hover{color:#112c5d;}
+/* CUSTOM MENU */
+.mainmenu .otmenu-desk-wrapper .ot-menu a{color:#ffffff;background:none;}
+.mainmenu .otmenu-desk-wrapper .ot-menu.child-menu li.hasChild > a{background:url("/web/20220114015648im_/http://geolita.lt/templates/ot_dulcet/assets/images/arrow.png") no-repeat scroll 98% 50% #FFFFFF;}
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1 a:hover,
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1.hover > div > a,
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1.active > div > a{border-color:#112c5d;color:#ffffff;}
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1.hasChild a:hover,
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1.hasChild.hover > div > a,
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1.hasChild.active > div > a:hover{border-color:transparent;color:#14aba7;}
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1.hasChild > div > a:hover:after,
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1.hasChild.hover > div > a:after,
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1.hasChild.active > div > a:hover:after{border-color:transparent;border-bottom-color:#14aba7;}
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1 .submenu-wrap{background:#FFFFFF;border-top-color:#14aba7;}
+.mainmenu .otmenu-desk-wrapper .ot-menu li.level1 > div > .submenu-wrap{border-top-color:#14aba7;}
+.mainmenu .otmenu-desk-wrapper .ot-menu.child-menu a:hover,
+.mainmenu .otmenu-desk-wrapper .ot-menu.child-menu li.hover > a,
+.mainmenu .otmenu-desk-wrapper .ot-menu.child-menu li.active > a{color:#112c5d;background:#F6F6F6;}
+.mainmenu .otmenu-desk-wrapper .ot-menu.child-menu li.hasChild.hover > a,
+.mainmenu .otmenu-desk-wrapper .ot-menu.child-menu li.hasChild.active > a{background:url("/web/20220114015648im_/http://geolita.lt/templates/ot_dulcet/assets/images/arrow.png") no-repeat scroll 98% 50% #F6F6F6;}
+.sectionTop1 .osearch .search .form-search{border-top:3px solid #14aba7;}
+.sectionTop1 .custom_search .form-search .input-append .btn{background:none repeat scroll 0 0 #14aba7;}
+/* CUSTOM K2 */
+div.itemHeader h2.itemTitle{}
+.itemHeader .itemTitle,
+.genericItemTitle,
+.catItemHeader .catItemTitle,
+.catItemHeader .catItemTitle a{/*color:#222222;*/}
+ul.itemsList li{border-color:#EBEBEB;}
+div.k2TagCloudBlock a{background:#F6F6F6;color:#666666;}
+div.k2TagCloudBlock a:hover{background:#112c5d;}
+.k2LatestCommentsBlock .carousel-control,
+.k2TopCommentersBlock .carousel-control{background:none;color:#333333;}
+.k2ItemsBlock .ot-single .moduleItemOverlay{background:none repeat scroll 0 0 rgba(255, 255, 255, 0.4);}
+.k2ItemsBlock .ot-single .moduleItemOverlay,
+.k2ItemsBlock .ot-single .moduleItemOverlay a{color:#FFFFFF;}
+.k2ItemsBlock .ot-single .moduleItemOverlay-i{background:#112c5d;}
+.k2ItemsBlock .ot-single .moduleItemOverlay a.moduleItemReadMore{background:url(/web/20220114015648im_/http://geolita.lt/templates/ot_dulcet/assets/images/arrow_w.png) no-repeat right center #222222;}
+.k2ItemsBlock  .ot-portfolio .k2ItemBlock-i,
+.ot-portfolio .catItemView .k2ItemBlock,
+.ot-portfolio .itemRelated .k2ItemBlock{border-color:#112c5d #EBEBEB #EBEBEB;background:#FBFBFB;}
+.k2ItemsBlock .ot-portfolio .k2ItemBlock .moduleItemImageHeader .moduleItemHeader a,
+.ot-portfolio .catItemView .k2ItemBlock .catItemImageHeader .catItemHeader a,
+.ot-portfolio .itemRelated .k2ItemBlock .itemRelImageHeader .itemRelHeader a{color:#FFFFFF;}
+.k2ItemsBlock .ot-portfolio .k2ItemBlock .moduleItemImageHeader .moduleItemHeader .moduleItemTitle,
+.ot-portfolio .catItemView .k2ItemBlock .catItemImageHeader .catItemHeader .catItemTitle,
+.ot-portfolio .itemRelated .k2ItemBlock .itemRelImageHeader .itemRelHeader .itemRelTitle,
+.ot-portfolio .catItemView .k2ItemBlock .catItemImageHeader .catItemHeader .catItemTitle a,
+.ot-portfolio .itemRelated .k2ItemBlock .itemRelImageHeader .itemRelHeader .itemRelTitle a{color:#333333;background:#F6F6F6;}
+.k2ItemsBlock .ot-portfolio .k2ItemBlock .moduleItemImageHeader .moduleItemHeader .moduleItemDateCreated,
+.ot-portfolio .catItemView .k2ItemBlock .catItemImageHeader .catItemHeader  .catItemDateCreated,
+.ot-portfolio .itemRelated .k2ItemBlock .itemRelImageHeader .itemRelHeader .itemRelDateCreated,
+.k2ItemsBlock .ot-portfolio .k2ItemBlock .moduleItemImageHeader .moduleItemHeader .moduleItemAuthor,
+.ot-portfolio .catItemView .k2ItemBlock .catItemImageHeader .catItemHeader  .catItemAuthor,
+.ot-portfolio .itemRelated .k2ItemBlock .itemRelImageHeader .itemRelHeader .itemRelAuthor,
+.k2ItemsBlock .ot-portfolio .k2ItemBlock .moduleItemImageHeader .moduleItemHeader .moduleItemTags,
+.ot-portfolio .catItemView .k2ItemBlock .catItemImageHeader .catItemHeader  .catItemTags,
+.ot-portfolio .itemRelated .k2ItemBlock .itemRelImageHeader .itemRelHeader .itemRelTags{color:#FFFFFF;background:#112c5d;}
+.ot-separator{color:#CCCCCC;background:#D0D0D0;}
+.ot-separator span{/*background:#FFFFFF;*/}
+.moduleItemOverlay .ot-separator,
+.catItemOverlay .ot-separator{color:#FFFFFF;background:#FFFFFF;}
+.moduleItemOverlay .ot-separator span,
+.catItemOverlay .ot-separator span{background:#112c5d}
+
+.ot-blog .moduleItemDateCreated{background:#112c5d;color:#FFFFFF;}
+.ot-blog a.read-more{}
+.ot-blog a.read-more:hover {}
+.ot-blog .moduleItemComment,
+.ot-blog a.moduleItemReadMore{color:#FFFFFF;background:#BCBCBC;}
+.ot-blog .moduleItemComment:hover,
+.ot-blog a.moduleItemReadMore:hover {background:#333333;}
+.ot-blog div.catItemView,
+div.itemView.ot-blog {border-color:#E5E5E5;}
+.ot-blog div.catItemHeader,
+.ot-blog div.itemHeader{}
+.ot-blog div.catItemBody,
+.ot-blog div.itemBody,
+.ot-blog div.itemComments{}
+
+.pagination > .active > a, 
+.pagination > .active > span, 
+.pagination > .active > a:hover, 
+.pagination > .active > span:hover, 
+.pagination > .active > a:focus, 
+.pagination > .active > span:focus {background-color:#112c5d !important;border-color:#112c5d;}
+.pagination > li > a, 
+.pagination > li > span{color:#112c5d;}
+
+.ot-gallery{background:#D9D9D9;}
+.ot-gallery .nav-tabs > .active > a,
+.ot-gallery .nav-tabs > .active > a:hover,
+.ot-gallery .nav-tabs > .active > a:focus{border-color:#FFFFFF;}
+.ot-gallery .mCS-dark-2 > .mCSB_scrollTools .mCSB_draggerRail{background:#FFFFFF;}
+.ot-gallery.k2ItemsBlock .caption{background:#112c5d;color:#FFFFFF;}
+.ot-gallery.k2ItemsBlock .caption a{color:#FFFFFF;}
+/* CUSTOM BLOCK */
+.custom_block:hover{background:#FFFFFF;}
+.custom_block h3,
+.custom_work h3{color:#333333;}
+/* CUSTOM CONTACT BLOCK */
+.custom_contact .custom_comp{color:#999999;}
+/* CUSTOM SUPPORT BLOCK */
+.custom_support{background:#FFFFFF;border-color:rgba(0, 0, 0, 0.1);-webkit-box-shadow:0 1px 1px rgba(0, 0, 0, 0.05) inset;-moz-box-shadow:0 1px 1px rgba(0, 0, 0, 0.05) inset;box-shadow:0 1px 1px rgba(0, 0, 0, 0.05) inset;}
+.custom_support .custom_inner{border-color:#E9E9E9;}
+.custom_support h3{color:#333333}
+.custom_support .custom_style{color:#112c5d;}
+/* CUSTOM SIDEBAR */
+
+/* CUSTOM TAB */
+.ot-tabs .navbar{border-bottom-color:#EAEAEA;background:#F7F7F7;}
+.ot-tabs .nav-tabs li{}
+.ot-tabs .nav-tabs a{}
+.ot-tabs .nav-tabs .active > a,
+.ot-tabs .nav-tabs > li > a:hover,
+.ot-tabs .nav-tabs > li > a:focus{}
+/* CUSTOM CAROUSEL */
+.carousel-control{border-color:#EBEBEB;}
+.carousel-control.left{background:url(/web/20220114015648im_/http://geolita.lt/templates/ot_dulcet/assets/images/prev_w.png) no-repeat center center #0C1611;}
+.carousel-control.right{background:url(/web/20220114015648im_/http://geolita.lt/templates/ot_dulcet/assets/images/next_w.png) no-repeat center center #0C1611;}
+.carousel-control.control-light{border-color:#EBEBEB;}
+.carousel-control.control-light.left{background:url(/web/20220114015648im_/http://geolita.lt/templates/ot_dulcet/assets/images/prev.png) no-repeat center center #FBFBFB;}
+.carousel-control.control-light.right{background:url(/web/20220114015648im_/http://geolita.lt/templates/ot_dulcet/assets/images/next.png) no-repeat center center #FBFBFB;}
+/* CUSTOM BACK TO TOP */
+.gotop{border-color:#1A1512;background:#191410;}
+.gotop a{color:#FFFFFF;background:url("/web/20220114015648im_/http://geolita.lt/templates/ot_dulcet/assets/images/arrow_top.png") top center no-repeat;}
+.gotop a:hover{color:#FFFFFF;}
+/*
+     FILE ARCHIVED ON 01:56:48 Jan 14, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:28:07 May 22, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.1
+  exclusion.robots: 0.151
+  exclusion.robots.policy: 0.135
+  esindex: 0.014
+  cdx.remote: 6.655
+  LoadShardBlock: 111.864 (3)
+  PetaboxLoader3.resolve: 120.146 (4)
+  PetaboxLoader3.datanode: 76.379 (5)
+  load_resource: 139.575 (2)
+*/
